@@ -26,4 +26,5 @@ jobs:
           npm install
           npm run build --if-present
           npm run test --if-present
+          sudo pm2 restart backend
       
