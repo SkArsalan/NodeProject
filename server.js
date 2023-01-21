@@ -14,8 +14,6 @@ const API = require("./routes/Api_routes")
  const io = require("socket.io")( {
     'maxHttpBufferSize': 1000000
 });
-
-document.write("Hello From code")
 db()
 app.use(express.json())
 app.use(express.static('public'));
