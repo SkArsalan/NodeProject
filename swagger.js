@@ -6,8 +6,8 @@ const endpointsFiles = ['./endpoints.js']
 const doc = {
     info: {
         version: "1.0.0",
-        title: "English For All Service",
-        description: "English For All Services  ,User,Admin Api Created."
+        title: "Avinya Service",
+        description: "Avinya Services User  Admin,Member Api Created"
     },
     host: "localhost:2000",
     basePath: "/",
