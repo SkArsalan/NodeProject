@@ -6,7 +6,7 @@ const endpointsFiles = ['./endpoints.js']
 const doc = {
     info: {
         version: "1.0.0",
-        title: "Avinya app Service",
+        title: "Avinya App Service",
         description: "Avinya Services User  Admin,Member Api Created"
     },
     host: "localhost:2000",
